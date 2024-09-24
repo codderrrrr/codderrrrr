@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="coderrrrr" /> </p>
 
-- 🌱 I’m currently learning **Deep learning, Pytorch and**
+- 🌱 I’m currently learning **Deep learning, NLP and Pytorch**
 
 - 📫 How to reach me **saadwaqar118@gmail.com**
 
