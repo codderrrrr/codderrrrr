@@ -1,71 +1,53 @@
-<h1 align="center">Hi 👋, I'm Saad Waqar</h1>
-<h3 align="center">AI/ML enthusiast</h3>
+# **Hi 👋, I'm Saad Waqar**  
+### **AI & Computer Vision Enthusiast**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="coderrrrr" /> </p>
+🚀 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**.  
+🎯 Currently exploring **Deep Learning, Natural Language Processing (NLP), and PyTorch**.  
+📫 Reach me at **saadwaqar118@gmail.com**  
 
-- 🌱 I’m currently learning **Deep learning, NLP and Pytorch**
+---
 
-- 📫 How to reach me **saadwaqar118@gmail.com**
+## **🚀 Skills & Technologies**  
 
-<h3 align="center">Languages and Tools:</h3>
+### **Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+
+### **AI/ML Frameworks & Libraries:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![Face_Recognition](https://img.shields.io/badge/FaceRecognition-009688?style=flat)  
+![Pillow](https://img.shields.io/badge/Pillow-FFA500?style=flat)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-004D40?style=flat)  
+
+### **Databases & Tools:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+
+---
+
+## **📊 GitHub Stats**  
+
 <p align="center">
-  <span>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-    </a>
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api?username=coderrrrr&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <span>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-    </a>
-  </span>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderrrrr&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saad waqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad waqar" height="30" width="40" /></a>
-<a href="https://kaggle.com/saad_waqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saad_waqar" height="30" width="40" /></a>
-<a href="https://instagram.com/saadwaqar51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadwaqar51" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saad_waqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saad_waqar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/saadwaqar211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saadwaqar211" height="30" width="40" /></a>
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderrrrr&show_icons=true&locale=en&layout=compact" alt="coderrrrr" /></p>
+## **📫 Connect with Me**  
+[![Email](https://img.shields.io/badge/Email-saadwaqar118@gmail.com-red?style=flat&logo=gmail)](mailto:saadwaqar118@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SaadWaqar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saadwaqar)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-SaadWaqar-blue?style=flat&logo=kaggle)](https://kaggle.com/saad_waqar)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderrrrr&show_icons=true&locale=en" alt="coderrrrr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderrrrr&" alt="coderrrrr" /></p>
+### 🔥 *Always Learning, Always Building!*  
